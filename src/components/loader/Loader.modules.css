@@ -1,0 +1,8 @@
+.loaderWrapper {
+    width: 100vw;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
