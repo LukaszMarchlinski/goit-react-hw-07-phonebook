@@ -12,7 +12,7 @@ const Filter = () => {
   };
 
   return (
-    <label className={css.label}>
+    <label_contact className={css.label}>
       Find contacts by name
       <input
         className={css.input}
@@ -20,7 +20,7 @@ const Filter = () => {
         name="filter"
         onChange={handleFilter}
       />
-    </label>
+    </label_contact>
   );
 };
 
